@@ -3,3 +3,4 @@ komponen yang diperlukan untuk menyusun web ini adalah
 2. SublimeText : sebagai text editor
 4. Bootstrap & CodeIgniter : sebagai framework
 5. komponen penyusun lainnya seperti php,javascript
+6. sumber zip ci&bootstrap : https://codeigniter.com/download  | https://getbootstrap.com/docs/4.0/getting-started/download/
